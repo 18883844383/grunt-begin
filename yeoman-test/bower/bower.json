@@ -1,0 +1,25 @@
+{
+  "name": "bower-demo",
+  "description": "test bower by use jquery && bootstrap",
+  "main": "",
+  "keywords": [
+    "bower"
+  ],
+  "authors": [
+    "mengshi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "getbootstrap": "http://getbootstrap.com",
+    "jquery": "https://jquery.com/"
+  }
+}

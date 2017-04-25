@@ -1,0 +1,12 @@
+{
+  "name": "getbootstrap",
+  "_cacheHeaders": {
+    "Last-Modified": "Wed, 19 Oct 2016 15:43:42 GMT",
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "main": "index.com",
+  "_source": "http://getbootstrap.com",
+  "_target": "*",
+  "_originalSource": "http://getbootstrap.com",
+  "_direct": true
+}
